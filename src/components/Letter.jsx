@@ -32,13 +32,13 @@ export default function Letter() {
             >
                 <TypeAnimation
                     sequence={[
-                        "Dear Afreen,\n\n",
+                        "Dear Afreen (Babu),\n\n",
                         700,
 
-                        "Dear Afreen,\n\nHappy 22nd Birthday! 🎂\n\n",
+                        "Dear Afreen (Babu),\n\nHappy 22nd Birthday! 🎂\n\n",
                         1000,
 
-                        "Dear Afreen,\n\nHappy 22nd Birthday! 🎂\n\nMay your special day be filled with joy,\nlaughter and beautiful memories.\n\nMay Allah bless you with happiness,\nsuccess, peace and good health.\n\n❤️ Best Wishes ❤️",
+                        "Dear Afreen (Babu),\n\nHappy 22nd Birthday! 🎂\n\nMay your special day be filled with joy,\nlaughter and beautiful memories.\n\nMay Allah bless you with happiness,\nsuccess, peace and good health.\n\n❤️ Best Wishes ❤️",
                         2500,
                     ]}
                     wrapper="pre"
@@ -61,9 +61,9 @@ export default function Letter() {
 
                         // Very subtle ink bleed
                         textShadow: `
-        0.4px 0.4px 0px rgba(120,70,30,0.18),
-        -0.2px 0px 0px rgba(90,50,20,0.08)
-    `,
+    0.8px 0.8px 2px rgba(70, 50, 30, 0.35),
+    0px 0px 3px rgba(100, 70, 40, 0.20)
+`,
 
                         fontWeight: 500,
                         whiteSpace: "pre-wrap",
