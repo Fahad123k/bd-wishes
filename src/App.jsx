@@ -6,6 +6,10 @@ function App() {
 
   const [isOpen, setIsOpen] = useState(false);
 
+
+
+
+
   const [timeLeft, setTimeLeft] = useState({
     hours: 0,
     minutes: 0,
@@ -23,7 +27,7 @@ function App() {
       const birthdayDate = new Date(
         now.getFullYear(),
         6,
-        17,
+        18,
         0,
         0,
         0
