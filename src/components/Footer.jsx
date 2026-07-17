@@ -78,12 +78,12 @@ export default function Footer() {
 
                             <div className="flex items-center gap-3">
                                 <FaEnvelope className="text-pink-500" />
-                                hello@example.com
+                                ahmad.nishu08@gmail.com
                             </div>
 
                             <div className="flex items-center gap-3">
                                 <FaPhoneAlt className="text-pink-500" />
-                                +91 98765 43210
+                                +91 9100000000
                             </div>
 
                         </div>
