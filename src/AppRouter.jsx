@@ -5,10 +5,10 @@ import {
 
 import MainLayout from "./layouts/MainLayout";
 
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
-import NotFound from "./pages/NotFound";
+import Home from "./Pages/Home";
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
+import NotFound from "./Pages/NotFound";
 
 const router = createBrowserRouter([
     {
