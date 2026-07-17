@@ -48,7 +48,7 @@ export default function Letter() {
                     style={{
                         fontFamily: "Caveat, cursive",
 
-                        fontSize: "clamp(18px, 2.5vw, 44px)",
+                        fontSize: "clamp(15px, 2.3vw, 44px)",
 
                         // Dark brown ink
                         color: "#4A2C1A",
