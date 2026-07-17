@@ -14,6 +14,10 @@ export default function CTA() {
                     May your day be filled with laughter, love,
                     happiness, and beautiful surprises.
                 </p>
+                <p className="mt-6 text-base sm:text-lg lg:text-xl max-w-3xl mx-auto">
+                    Babu,sonu,Chengna,Chunchunya,Chenga,jugnu,Raajkumari,Pari,Princicess
+                </p>
+
 
             </div>
 
