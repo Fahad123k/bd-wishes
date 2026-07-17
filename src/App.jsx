@@ -23,7 +23,7 @@ function App() {
       const birthdayDate = new Date(
         now.getFullYear(),
         6,
-        17,
+        18,
         0,
         0,
         0
